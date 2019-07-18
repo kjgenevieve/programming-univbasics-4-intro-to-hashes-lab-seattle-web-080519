@@ -1,10 +1,9 @@
 def new_hash
-  wow_hash = Hash.new
-  # wow_hash
+  hash = Hash.new
 end
 
 def my_hash
-  # return a valid hash with any key/value pair of your choice
+  hash = { "apple" => "yum"}
 end
 
 def pioneer
