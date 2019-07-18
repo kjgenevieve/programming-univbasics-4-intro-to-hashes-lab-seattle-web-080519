@@ -1,5 +1,6 @@
 def new_hash
   wow_hash = hash.new
+  wow_hash
 end
 
 def my_hash
