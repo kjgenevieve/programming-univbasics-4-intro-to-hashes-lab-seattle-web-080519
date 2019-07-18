@@ -19,9 +19,8 @@ def id_generator
 end
 
 def my_hash_creator(key, value)
-  hash = {
-    name: "Grace Hopper"
-  }
+  hash = Hash.new
+  
  
  
   # return a hash that includes the key and value parameters passed into this method
